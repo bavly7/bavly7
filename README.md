@@ -72,9 +72,9 @@
 ### <div align="center">📊 <span style="color:#20BEFF"> GITHUB ANALYTICS </span> 📊</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bavly7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavly7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20BEFF" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bavly7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bavly7&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 
 <br>
