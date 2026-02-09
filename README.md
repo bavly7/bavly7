@@ -14,7 +14,7 @@ Currently leveraging **YOLO11**, **TensorFlow**, and **Custom CNNs** to solve co
 | **Computer Vision** | `OpenCV` `YOLOv8/11` `U-Net` `Mask R-CNN` `OCR` `Video Tracking` |
 | **Deep Learning** | `TensorFlow` `Keras` `PyTorch` `Transfer Learning` `CNNs` |
 | **Data Science** | `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `SQL` |
-| **Tools** | `Git` `Docker` `Roboflow` `VS Code` `Streamlit` |
+| **Tools** | `Git` `Roboflow` `VS Code` `Streamlit` |
 
 ---
 
